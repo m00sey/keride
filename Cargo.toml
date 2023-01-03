@@ -1,6 +1,6 @@
 [package]
-name = "cesride"
-version = "0.1.1"
+name = "keride"
+version = "0.1.0"
 edition = "2021"
 description = "Implementation of Composable Event Streaming Representation (CESR)"
 license = "Apache-2.0"
